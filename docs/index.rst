@@ -11,7 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   about-me.rst
+   about-me
+   research
 
 Indices and tables
 ==================
